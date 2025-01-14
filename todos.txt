@@ -8,5 +8,5 @@ Learn Python!
 This is a New ToDo
 This is a New ToDo 2
 New Task from cli
-New task
-New NEw NEW Task
+New task from online app
+New task from localhost app
