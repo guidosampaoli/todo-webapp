@@ -31,3 +31,4 @@ def get_img_path(image_name):
         # if it's not an executable file, use the local path
         return os.path.join(os.path.dirname(__file__), 'assets', image_name)
 
+
