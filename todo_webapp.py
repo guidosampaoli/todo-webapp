@@ -3,7 +3,7 @@ import functions
 
 st.set_page_config(
     page_title="To-Do Webb App",
-    page_icon="https://github.com/guidosampaoli/todo-webapp/blob/master/favicon.png"
+    page_icon="favicon.png"
 )
 
 todos = functions.get_todos()
