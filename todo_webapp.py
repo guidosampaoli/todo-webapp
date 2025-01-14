@@ -1,6 +1,11 @@
 import streamlit as st
 import functions
 
+st.set_page_config(
+    page_title="To-Do Webb App",
+    page_icon="favicon.png"
+)
+
 todos = functions.get_todos()
 
 if "new_todo" not in st.session_state:
